@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c0488b-9727-4faa-a05e-042d832e7012" name="Changes" comment="finished out CI pipeline">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+    <list default="true" id="58c0488b-9727-4faa-a05e-042d832e7012" name="Changes" comment="fixed pytest in CI">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771351696981</updated>
-      <workItem from="1771351699447" duration="7073000" />
+      <workItem from="1771351699447" duration="7573000" />
     </task>
     <task id="LOCAL-00001" summary="created backend and frontend folders">
       <option name="closed" value="true" />
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771373070268</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed pytest in CI">
+      <option name="closed" value="true" />
+      <created>1771373544573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771373544573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +149,7 @@
     <MESSAGE value="finished project setup with whole stack" />
     <MESSAGE value="frontend folder" />
     <MESSAGE value="finished out CI pipeline" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished out CI pipeline" />
+    <MESSAGE value="fixed pytest in CI" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed pytest in CI" />
   </component>
 </project>
