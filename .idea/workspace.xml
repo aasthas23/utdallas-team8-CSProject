@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c0488b-9727-4faa-a05e-042d832e7012" name="Changes" comment="finished project setup with whole stack" />
+    <list default="true" id="58c0488b-9727-4faa-a05e-042d832e7012" name="Changes" comment="frontend folder">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/test_health.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/utdallas-team8-CSProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/utdallas-team8-CSProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +38,9 @@
     &quot;accountId&quot;: &quot;931a9825-6e9c-4d49-87e9-973791f021f5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -56,8 +65,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "C:\\Users\\aashi\\YIP\\utdallas-team8-CSProject\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -78,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771351696981</updated>
-      <workItem from="1771351699447" duration="2547000" />
+      <workItem from="1771351699447" duration="6409000" />
     </task>
     <task id="LOCAL-00001" summary="created backend and frontend folders">
       <option name="closed" value="true" />
@@ -96,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771364104137</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="frontend folder">
+      <option name="closed" value="true" />
+      <created>1771364221749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771364221749</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created backend and frontend folders" />
     <MESSAGE value="finished project setup with whole stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished project setup with whole stack" />
+    <MESSAGE value="frontend folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend folder" />
   </component>
 </project>
