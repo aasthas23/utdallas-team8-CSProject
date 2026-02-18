@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c0488b-9727-4faa-a05e-042d832e7012" name="Changes" comment="frontend folder">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tests/test_health.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/utdallas-team8-CSProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/utdallas-team8-CSProject.iml" afterDir="false" />
+    <list default="true" id="58c0488b-9727-4faa-a05e-042d832e7012" name="Changes" comment="finished out CI pipeline">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771351696981</updated>
-      <workItem from="1771351699447" duration="6409000" />
+      <workItem from="1771351699447" duration="7073000" />
     </task>
     <task id="LOCAL-00001" summary="created backend and frontend folders">
       <option name="closed" value="true" />
@@ -114,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771364221749</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finished out CI pipeline">
+      <option name="closed" value="true" />
+      <created>1771373070268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771373070268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +140,7 @@
     <MESSAGE value="created backend and frontend folders" />
     <MESSAGE value="finished project setup with whole stack" />
     <MESSAGE value="frontend folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="frontend folder" />
+    <MESSAGE value="finished out CI pipeline" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished out CI pipeline" />
   </component>
 </project>

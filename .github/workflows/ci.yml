@@ -30,7 +30,9 @@ jobs:
         run: ruff check .
 
       - name: Tests (pytest)
-        run: pytest -q
+        env:
+          PYTHONPATH: ${{ github.workspace }}/backend
+        run: python -m pytest -q
 
   frontend:
     runs-on: ubuntu-latest
