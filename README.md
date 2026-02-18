@@ -32,10 +32,11 @@ docker compose version
 ---
 
 ## 1) Clone the repo + open the project
+```bash
 
-- git clone <YOUR_REPO_URL>
-- cd utdallas-team8-CSProject
-
+git clone <YOUR_REPO_URL>
+cd utdallas-team8-CSProject
+```
 ---
 
 ## 2) Create your local environment file
