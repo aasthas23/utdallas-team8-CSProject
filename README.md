@@ -1,6 +1,6 @@
 # Project Setup Guide (Backend + Frontend + DB)
 
-This repo is a monorepo:
+This repo contains:
 - `backend/` = **FastAPI** (Python)
 - `frontend/` = **React + TypeScript + Tailwind + shadcn/ui**
 - `docker-compose.yml` = **PostgreSQL**
